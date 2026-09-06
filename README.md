@@ -68,7 +68,7 @@ Também trabalho com <strong>Roblox Studio</strong>, desenvolvendo scripts, sist
 <table align="left">
 <tr border="none">
 
-<td width="100%" align="center">
+<td width="33%" align="center">
 
 <h3>🐾 PataLar</h3>
 
@@ -76,7 +76,7 @@ Também trabalho com <strong>Roblox Studio</strong>, desenvolvendo scripts, sist
 Aplicativo desenvolvido com <strong>React Native</strong>, trabalhando na criação de interfaces e funcionalidades para dispositivos móveis.
 </p>
 
-<a href="https://github.com/SEU_USUARIO" target="_blank">
+<a>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
