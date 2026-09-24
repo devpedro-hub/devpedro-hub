@@ -172,15 +172,7 @@ Curso focado no desenvolvimento de conhecimentos em <strong>Microsoft Excel</str
 
 <br>
 
-<h2>🎯 Objetivo</h2>
 
-<p align="left">
-
-<strong>
-Sempre buscar aprender mais, criar projetos cada vez melhores e evoluir como desenvolvedor.
-</strong>
-
-</p>
 
 <br>
 
