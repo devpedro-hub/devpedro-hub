@@ -177,7 +177,7 @@ Curso focado no desenvolvimento de conhecimentos em <strong>Microsoft Excel</str
 <p align="left">
 
 <strong>
-Continuar sempre aprendendo, criar projetos cada vez melhores e evoluir como desenvolvedor.
+Sempre buscar aprender mais, criar projetos cada vez melhores e evoluir como desenvolvedor.
 </strong>
 
 </p>
